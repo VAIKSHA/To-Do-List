@@ -51,6 +51,8 @@ h1 {
 }
 
 .todo-item {
+    font-weight: bold;
+    color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
